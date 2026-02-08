@@ -6,9 +6,6 @@ const Footer: React.FC = () => {
       <p className="text-neutral-500 text-sm font-light">
         &copy; 2026 By Pahuni Bartaria.
       </p>
-      <p className="text-neutral-400 text-xs mt-1">
-        Powered and secured by Wix
-      </p>
     </footer>
   );
 };
